@@ -1,1 +1,2 @@
 # brainF-k
+i have no idea why anyone would want to even try to understand this language, and what the creator of this language was thinking, it's a total waste of time and energy, but i just watched a video on it by fireship and he put a screenshot of a code in this language without telling what it does, you'll find the code in the .bf file in this repo, use an online compiler like https://www.tutorialspoint.com/execute_brainfk_online.php to compile and see what it is.
